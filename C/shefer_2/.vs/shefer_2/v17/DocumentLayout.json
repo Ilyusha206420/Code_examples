@@ -1,10 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\vapcbuild\\source\\repos\\shefer_2\\",
+  "WorkspaceRootPath": "C:\\Users\\vapcbuild\\Downloads\\Code_examples\\C\\Shefer_2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{96C42B33-8AD9-4831-825E-932C45B94F7F}|shefer_2\\shefer_2.vcxproj|C:\\Users\\vapcbuild\\source\\repos\\shefer_2\\shefer_2\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{96C42B33-8AD9-4831-825E-932C45B94F7F}|shefer_2\\shefer_2.vcxproj|solutionrelative:shefer_2\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{96C42B33-8AD9-4831-825E-932C45B94F7F}|Shefer_2\\shefer_2.vcxproj|C:\\Users\\vapcbuild\\Downloads\\Code_examples\\C\\Shefer_2\\Shefer_2\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{96C42B33-8AD9-4831-825E-932C45B94F7F}|Shefer_2\\shefer_2.vcxproj|solutionrelative:Shefer_2\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,11 +19,11 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Source.c",
-              "DocumentMoniker": "C:\\Users\\vapcbuild\\source\\repos\\shefer_2\\shefer_2\\Source.c",
-              "RelativeDocumentMoniker": "shefer_2\\Source.c",
-              "ToolTip": "C:\\Users\\vapcbuild\\source\\repos\\shefer_2\\shefer_2\\Source.c",
-              "RelativeToolTip": "shefer_2\\Source.c",
+              "Title": "main.c",
+              "DocumentMoniker": "C:\\Users\\vapcbuild\\Downloads\\Code_examples\\C\\Shefer_2\\Shefer_2\\main.c",
+              "RelativeDocumentMoniker": "Shefer_2\\main.c",
+              "ToolTip": "C:\\Users\\vapcbuild\\Downloads\\Code_examples\\C\\Shefer_2\\Shefer_2\\main.c",
+              "RelativeToolTip": "Shefer_2\\main.c",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2024-11-04T14:43:11.151Z",

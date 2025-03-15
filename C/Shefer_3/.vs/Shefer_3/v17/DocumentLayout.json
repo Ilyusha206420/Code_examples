@@ -1,10 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\vapcbuild\\source\\repos\\Shefer_3\\",
+  "WorkspaceRootPath": "C:\\Users\\vapcbuild\\Downloads\\Code_examples\\C\\Shefer_3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D4F4060A-29CB-49DD-A734-32DA42ABEF34}|Shefer_3\\Shefer_3.vcxproj|C:\\Users\\vapcbuild\\source\\repos\\Shefer_3\\Shefer_3\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{D4F4060A-29CB-49DD-A734-32DA42ABEF34}|Shefer_3\\Shefer_3.vcxproj|solutionrelative:Shefer_3\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{D4F4060A-29CB-49DD-A734-32DA42ABEF34}|Shefer_3\\Shefer_3.vcxproj|C:\\Users\\vapcbuild\\Downloads\\Code_examples\\C\\Shefer_3\\Shefer_3\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D4F4060A-29CB-49DD-A734-32DA42ABEF34}|Shefer_3\\Shefer_3.vcxproj|solutionrelative:Shefer_3\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,12 +19,12 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Source.c",
-              "DocumentMoniker": "C:\\Users\\vapcbuild\\source\\repos\\Shefer_3\\Shefer_3\\Source.c",
-              "RelativeDocumentMoniker": "Shefer_3\\Source.c",
-              "ToolTip": "C:\\Users\\vapcbuild\\source\\repos\\Shefer_3\\Shefer_3\\Source.c",
-              "RelativeToolTip": "Shefer_3\\Source.c",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAYwCkAAAASAAAAAAAAAA==",
+              "Title": "main.c",
+              "DocumentMoniker": "C:\\Users\\vapcbuild\\Downloads\\Code_examples\\C\\Shefer_3\\Shefer_3\\main.c",
+              "RelativeDocumentMoniker": "Shefer_3\\main.c",
+              "ToolTip": "C:\\Users\\vapcbuild\\Downloads\\Code_examples\\C\\Shefer_3\\Shefer_3\\main.c",
+              "RelativeToolTip": "Shefer_3\\main.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2024-11-04T16:27:50.03Z",
               "EditorCaption": ""
