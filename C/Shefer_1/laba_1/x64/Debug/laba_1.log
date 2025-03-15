@@ -1,0 +1,6 @@
+﻿  Source.c
+C:\Users\vapcbuild\source\repos\laba_1\laba_1\Source.c(13,11): warning C4013: my_pow: нет определения; предполагается "extern" с возвратом типа "int"
+C:\Users\vapcbuild\source\repos\laba_1\laba_1\Source.c(13,21): warning C4013: my_log: нет определения; предполагается "extern" с возвратом типа "int"
+C:\Users\vapcbuild\source\repos\laba_1\laba_1\Source.c(21,3): warning C4013: check_log: нет определения; предполагается "extern" с возвратом типа "int"
+C:\Users\vapcbuild\source\repos\laba_1\laba_1\Source.c(54,1): warning C4716: check_log: должна возвращать значение
+  laba_1.vcxproj -> C:\Users\vapcbuild\source\repos\laba_1\x64\Debug\laba_1.exe
